@@ -50,4 +50,5 @@
 </p>
 
 <h3 align="center">Here is Snake eating mu Contributions🐍:</h3>
-<img src="https://raw.githubusercontent.com/kubaxd864/kubaxd864/output/github-contribution-grid-snake.svg" />
+
+![snake gif](https://github.com/kubaxd864/kubaxd864/blob/output/github-contribution-grid-snake.gif)
