@@ -34,8 +34,10 @@
       srcset="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kubaxd864&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    <br/>
+    <a href=""><img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href=""><img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
     </picture>
 </p>
 
