@@ -46,10 +46,10 @@
 </p>
 
 <h2 align="center">🥇 My Biggest Project:</h2>
+<p align="center">
   My Biggest and Most Advanced Project is Bike Rental Website made in Express and Ejs.
   The application has many features, such as: Sending Data from the form to Email, 
   Light and Dark Theme on the Page and many more. Form data is also saved in a MySQL database.
-<p align="center">
 </p>
 
 <h3 align="center">Here is Snake eating mu Contributions🐍:</h3>
