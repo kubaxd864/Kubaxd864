@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jakub</h1>
-<h3 align="center">I'm 18 years old technical school student, interested in software developed, especially in Front End of Websites and Mobile Apps.</h3>
+<h3 align="center">I'm 18 years old technical school student, interested in software development, especially in Front End of Websites and Mobile Apps.</h3>
 
 <h2 align="center">My Tech stack:</h2>
 <p align="center">
@@ -50,4 +50,5 @@
 </p>
 
 <h3 align="center">Here is Snake eating mu Contributions🐍:</h3>
-<img src="https://raw.githubusercontent.com/kubaxd864/kubaxd864/output/github-contribution-grid-snake.svg" />
+
+![snake gif](https://github.com/kubaxd864/kubaxd864/blob/output/github-contribution-grid-snake.gif)
