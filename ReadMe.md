@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jakub</h1>
 <h3 align="center">I'm 18 years old technical school student, interested in software development, especially in Front End of Websites and Mobile Apps.</h3>
 
-<h2 align="center">My Tech stack:</h2>
+<h2 align="center">👨‍💻 My Tech stack:</h2>
 <p align="center">
     <p align="center"><b>HTML 5 & CSS 3</b></p>
     <p align="center"><b>Javascript</b></p>
@@ -45,7 +45,10 @@
     </picture>
 </p>
 
-<h2 align="center">My Biggest Project:</h2>
+<h2 align="center">🥇 My Biggest Project:</h2>
+  My Biggest and Most Advanced Project is Bike Rental Website made in Express and Ejs.
+  The application has many features, such as: Sending Data from the form to Email, 
+  Light and Dark Theme on the Page and many more. Form data is also saved in a MySQL database.
 <p align="center">
 </p>
 
