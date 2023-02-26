@@ -21,10 +21,6 @@
 
 <h2 align="center">📊 My Github Stats:</h2>
 <p align="center">
-    <br/>
-    <a href="https://github.com/kubaxd864/github-readme-stats"><img alt="kubaxd864 Github Stats" src="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/kubaxd864/github-readme-stats"><img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
     <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
@@ -35,6 +31,17 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true" />
+    </picture>
+    <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </picture>
 </p>
 
