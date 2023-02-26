@@ -52,4 +52,4 @@
 
 <h3 align="center">Here is Snake eating mu Contributions🐍:</h3>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/kubaxd864/kubaxd864/blob/output/github-contribution-grid-snake.svg)
