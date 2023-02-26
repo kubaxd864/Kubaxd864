@@ -47,9 +47,8 @@
 
 <h2 align="center">My Biggest Project:</h2>
 <p align="center">
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  My biggest and most advanced project i've built so far is e-commerce shop, it's made up of mobile and backend part. App has many features like: shopping cart, authentication with email account verification, watchlist, many searching and filtering methods and the most importantly it handles payments. The mobile part was made in React Native with Typescript and Expo. Backend part was made in NodeJs, and more specifically in NestJS and MySQL as database. Queries to database are managed by TypeORM library that makes the code easier to update and manage. Payments are based on Stripe API that provides all the necessary methods.  
 </p>
 
 <h3 align="center">Here is Snake eating mu Contributions🐍:</h3>
-
-![Snake animation](https://github.com/kubaxd864/kubaxd864/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
