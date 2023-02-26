@@ -31,7 +31,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <br/>
-    <a href=""><img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/kubaxd864/github-readme-stats"><img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br/>
     </picture>
 </p>
