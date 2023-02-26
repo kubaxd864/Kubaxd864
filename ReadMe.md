@@ -34,17 +34,6 @@
     <a href=""><img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br/>
     </picture>
-    <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-      <a href=""><img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </picture>
 </p>
 
 <h2 align="center">My Biggest Project:</h2>
