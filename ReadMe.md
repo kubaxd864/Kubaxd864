@@ -31,7 +31,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api?username=kubaxd864&show_icons=true" />
-    <img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact" />
+    <img alt="kubaxd864 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </picture>
 </p>
 
