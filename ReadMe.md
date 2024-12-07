@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Jakub</h1>
-<h3 align="center">I'm 18 years old technical school student, interested in software development, especially in Front End of Websites and Mobile Apps.</h3>
+<h3 align="center">I'm 20 years old student, interested in software development, especially in Front End of Websites and Mobile Apps.</h3>
 
 <h2 align="center">👨‍💻 My Tech stack:</h2>
 <p align="center">
     <p align="center"><b>HTML 5 & CSS 3</b></p>
+    <p align="center"><b>React</b></p>
     <p align="center"><b>Javascript</b></p>
     <p align="center"><b>Bootstrap 5</b></p>
     <p align="center"><b>Electron</b></p>
-    <p align="center"><b>React</b></p>
     <p align="center"><b>NodeJS & Express</b></p>
     <p align="center"><b>MySQL</b></p>
 </p>
@@ -19,7 +19,7 @@
 </p>
 
 
-<h2 align="center">📊 My Github Stats:</h2>
+<h2 align="center">📊 Github Stats:</h2>
 <p align="center">
     <picture>
     <source 
@@ -44,23 +44,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaxd864&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </picture>
 </p>
-
-<h2 align="center">🥇 My Biggest Project:</h2>
-<p align="center">
-  My Biggest and Most Advanced Project is Bike Rental Website made in Express and Ejs.
-  The application has many features, such as: Sending Data from the form to Email, 
-  Light and Dark Theme on the Page and many more. Form data is also saved in a MySQL database.
-</p>
-
-<h3 align="center">Here is Snake eating mu Contributions🐍:</h3>
-<picture>
-    <source 
-      srcset="https://raw.githubusercontent.com/kubaxd864/kubaxd864/output/github-contribution-grid-snake.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://raw.githubusercontent.com/kubaxd864/kubaxd864/output/github-contribution-grid-snake.gif"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://raw.githubusercontent.com/kubaxd864/kubaxd864/output/github-contribution-grid-snake.svg" />
-    </picture>
